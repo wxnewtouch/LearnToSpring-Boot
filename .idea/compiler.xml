@@ -10,6 +10,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="highlig_spring4" />
         <module name="highlig_spring4_idea" />
+        <module name="LearnToSpring-Boot" />
       </profile>
     </annotationProcessing>
   </component>
